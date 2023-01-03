@@ -1,2 +1,2 @@
 # Robot_Arm
-Robot Arm on Adams that holds a cube and then moves to another direction.
+A robot arm on Adams that holds a cube and then rotates 90 degree while holding it.
